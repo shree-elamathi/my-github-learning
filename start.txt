@@ -1,3 +1,4 @@
 Test Git Quick start demo
 Testing git how to add new content
 Trying nano to add content
+Adding another line to check the single line cmd for add and commit
