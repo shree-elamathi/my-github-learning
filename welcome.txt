@@ -1,1 +1,2 @@
 Welcome to the git basics training session
+Changed from master branch to b1 branch
