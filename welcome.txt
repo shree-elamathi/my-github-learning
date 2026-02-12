@@ -1,1 +1,1 @@
-Welcome to the git basics training session
+Change from branch2
